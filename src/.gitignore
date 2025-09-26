@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Output папка
+out/
+
+# Інші тимчасові файли
+*.log
+*.class
+target/
