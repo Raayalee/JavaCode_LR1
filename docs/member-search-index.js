@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.example","c":"LucasNumbers","l":"getIndex()"},{"p":"org.example","c":"LucasNumbers","l":"getValue()"},{"p":"org.example","c":"LucasNumbers","l":"LucasNumbers(int, long)","u":"%3Cinit%3E(int,long)"}];updateSearchResults();
